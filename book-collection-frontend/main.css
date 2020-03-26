@@ -1,0 +1,53 @@
+h1 {
+    
+    text-align: center;
+}
+
+body {
+    background-color: #252424;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #7e6b58;
+}
+
+#imgHeader{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#create-book{
+    display: block;
+    text-align: center;
+}
+
+input {
+    height: 20px;
+}
+
+input[type=submit] {
+    background-color: #dac288;
+}
+
+
+.delete {
+    background-color: red;
+    height: 25px;
+    font-size: large;
+    margin-left: 130px;
+}
+
+.author-card {
+    background-color: white;
+    width: 350px;
+    border: 6px solid black;
+    margin-left: 525px;
+    margin-top: 10px;
+    
+
+}
+
+
+#bookTitle{
+    text-align: center;
+}
